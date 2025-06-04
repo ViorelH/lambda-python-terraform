@@ -75,5 +75,5 @@ Custom domains
 
 Monitoring & logging with CloudWatch
 
-🙌 Author
+ Author
 ViorelH — Project 8: Serverless Python API with Terraform & AWS
